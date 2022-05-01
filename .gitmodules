@@ -1,0 +1,3 @@
+[submodule "a-z"]
+	path = a-z
+	url = git@github.com:Jubair-Ahmed-Junjun/a-z.git
